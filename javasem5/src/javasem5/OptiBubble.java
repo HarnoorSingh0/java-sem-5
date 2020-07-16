@@ -16,7 +16,7 @@ public class OptiBubble {
                  swap = true;
                 }  
             }  
-            if (swap=false)
+            if (swap==false)
              break;
          }  
     }
